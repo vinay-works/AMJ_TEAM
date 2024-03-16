@@ -6,6 +6,8 @@ export default {
     colors: {
       orange: '#F4511C',
       offWhite: '#f2f2f2',
+      white: '#fff',
+      black: 'black',
       btnBg: '#f8f8f8',
       text: '#31303A',
       textLight: '#818181',
