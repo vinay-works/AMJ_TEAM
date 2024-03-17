@@ -1,12 +1,11 @@
 import Footer from './components/Footer';
+import Header from './components/Header';
 
 const App = () => {
   return (
     <>
-      <div>
-        <h1 className='text-center'>hello world!</h1>
-      </div>
-
+      {/* ----Header---- */}
+      <Header />
       {/* ----Footer---- */}
       <Footer />
     </>
